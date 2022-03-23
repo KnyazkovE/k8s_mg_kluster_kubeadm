@@ -1,0 +1,1 @@
+# k8s_mg_kluster_kubeadm
